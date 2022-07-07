@@ -1,4 +1,4 @@
-okta:
+pingid:
   oauth2:
     issuer: https://ssaasi.delta.com
     client-id: TOPMLPPIDE_InventoryExchange-AWS_OIDC_SI
